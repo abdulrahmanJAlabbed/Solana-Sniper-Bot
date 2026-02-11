@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0da4fed1-b93f-4e3a-880f-6032a9ad3231" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="146" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="39W0KKAj5SJEEGuAugpQ0sFEy9t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/cella/Desktop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/cella/Desktop/ceaser/OLD/_SNIPER_ORGANIZATION/GROUP_3_PRODUCTION_ENTERPRISE/v4_TYPESCRIPT_ENTERPRISE/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0da4fed1-b93f-4e3a-880f-6032a9ad3231" name="Changes" comment="" />
+      <created>1770796453411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770796453411</updated>
+      <workItem from="1770796454487" duration="8252000" />
+      <workItem from="1770806779040" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Ceaser/SolanaTokenSniper-main/src/config.js" />
+        <option value="$PROJECT_DIR$/Ceaser/SolanaTokenSniper-main/src/types.js" />
+        <option value="$PROJECT_DIR$/Ceaser/SolanaTokenSniper-main/src/index.js" />
+        <option value="$PROJECT_DIR$/Ceaser/SolanaTokenSniper-main/src/utils/notification.js" />
+        <option value="$PROJECT_DIR$/Ceaser/SolanaTokenSniper-main/src/utils/env-validator.js" />
+        <option value="$PROJECT_DIR$/Ceaser/SolanaTokenSniper-main/src/utils/handlers/sniperooHandler.js" />
+        <option value="$PROJECT_DIR$/Ceaser/SolanaTokenSniper-main/src/utils/handlers/tokenHandler.js" />
+        <option value="$PROJECT_DIR$/Ceaser/SolanaTokenSniper-main/src/utils/handlers/rugCheckHandler.js" />
+        <option value="$PROJECT_DIR$/Ceaser/SolanaTokenSniper-main/src/utils/handlers/signatureHandler.js" />
+        <option value="$PROJECT_DIR$/Ceaser/SolanaTokenSniper-main/src/utils/managers/websocketManager.js" />
+        <option value="$PROJECT_DIR$/Ceaser/SolanaTokenSniper-main/src/tracker/db.js" />
+        <option value="$PROJECT_DIR$/_SNIPER_ORGANIZATION/GROUP_3_PRODUCTION_ENTERPRISE/v4_TYPESCRIPT_ENTERPRISE/src/config.js" />
+        <option value="$PROJECT_DIR$/_SNIPER_ORGANIZATION/GROUP_3_PRODUCTION_ENTERPRISE/v4_TYPESCRIPT_ENTERPRISE/src/types.js" />
+        <option value="$PROJECT_DIR$/_SNIPER_ORGANIZATION/GROUP_3_PRODUCTION_ENTERPRISE/v4_TYPESCRIPT_ENTERPRISE/src/index.js" />
+        <option value="$PROJECT_DIR$/_SNIPER_ORGANIZATION/GROUP_3_PRODUCTION_ENTERPRISE/v4_TYPESCRIPT_ENTERPRISE/src/utils/notification.js" />
+        <option value="$PROJECT_DIR$/_SNIPER_ORGANIZATION/GROUP_3_PRODUCTION_ENTERPRISE/v4_TYPESCRIPT_ENTERPRISE/src/utils/env-validator.js" />
+        <option value="$PROJECT_DIR$/_SNIPER_ORGANIZATION/GROUP_3_PRODUCTION_ENTERPRISE/v4_TYPESCRIPT_ENTERPRISE/src/utils/handlers/sniperooHandler.js" />
+        <option value="$PROJECT_DIR$/_SNIPER_ORGANIZATION/GROUP_3_PRODUCTION_ENTERPRISE/v4_TYPESCRIPT_ENTERPRISE/src/utils/handlers/tokenHandler.js" />
+        <option value="$PROJECT_DIR$/_SNIPER_ORGANIZATION/GROUP_3_PRODUCTION_ENTERPRISE/v4_TYPESCRIPT_ENTERPRISE/src/utils/handlers/rugCheckHandler.js" />
+        <option value="$PROJECT_DIR$/_SNIPER_ORGANIZATION/GROUP_3_PRODUCTION_ENTERPRISE/v4_TYPESCRIPT_ENTERPRISE/src/utils/handlers/signatureHandler.js" />
+        <option value="$PROJECT_DIR$/_SNIPER_ORGANIZATION/GROUP_3_PRODUCTION_ENTERPRISE/v4_TYPESCRIPT_ENTERPRISE/src/utils/managers/websocketManager.js" />
+        <option value="$PROJECT_DIR$/_SNIPER_ORGANIZATION/GROUP_3_PRODUCTION_ENTERPRISE/v4_TYPESCRIPT_ENTERPRISE/src/tracker/db.js" />
+      </list>
+    </option>
+  </component>
+</project>
